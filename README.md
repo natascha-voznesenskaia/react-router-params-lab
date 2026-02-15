@@ -1,4 +1,26 @@
-# React + TypeScript + Vite
+# React Router Params Lab
+
+Лабораторная работа по React Router DOM  
+Динамические маршруты и useParams  
+Vite + TypeScript
+
+## 📌 О проекте
+
+Приложение демонстрирует:
+
+- Динамические маршруты `/products/:id`
+- Использование хука `useParams`
+- Навигацию через `NavLink`
+- Layout + Outlet
+- Обработку 404
+- Отображение конкретного товара по id
+
+## 🛠 Технологии
+
+- React
+- TypeScript
+- Vite
+- React Router DOM
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
